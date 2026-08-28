@@ -1,0 +1,9 @@
+pandas
+openpyxl
+pdfplumber
+matplotlib
+seaborn
+wordcloud
+jieba
+requests
+jupyter
