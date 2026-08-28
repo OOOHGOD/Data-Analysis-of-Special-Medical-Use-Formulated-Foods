@@ -9,7 +9,7 @@ GitHub 仓库：[OOOHGOD/Data-Analysis-of-Special-Medical-Use-Formulated-Foods](
 - `code/任务1.ipynb`：任务 1，说明书字段与营养成分提取、分类和注册证号解析。
 - `code/任务2.ipynb`：任务 2，生产概况可视化。
 - `code/任务3.ipynb`：任务 3，基于百度文心接口的推荐示例。
-- `dataset/`：本地原始数据、182 款产品说明书、早期草稿和任务结果，不纳入 GitHub 代码仓库。
+- `dataset/`：通过网盘分享的文件：数据链接: https://pan.baidu.com/s/1mwKI2Om83O-cw2POGbWbKA?pwd=m2h1 提取码: m2h1 
 - `题目/`：竞赛题目和提交说明 PDF。
 - `讲解/`：代码讲解视频、运行教程、更新记录和推荐结果参考文件。
 - `项目总结.md`：项目方法、成果、局限和复现说明。
