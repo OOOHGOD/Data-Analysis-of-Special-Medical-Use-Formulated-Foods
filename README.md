@@ -1,11 +1,28 @@
-**English** | [简体中文](README.zh-CN.md)
+<div align="center">
 
-# Special Medical-Purpose Food Data Analysis
+# Special Medical-Purpose Food Analysis
+
+Extract product information, explore patterns, and communicate findings.
+
+**English** · [简体中文](README.zh-CN.md)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square) [![MIT License](https://img.shields.io/badge/License-MIT-2563EB?style=flat-square)](LICENSE)
+
+</div>
+
+<p align="center">
+<a href="#overview">Overview</a> · <a href="#setup">Setup</a> · <a href="#author--license">Author &amp; License</a>
+</p>
+
+---
+
+> **Project focus** · Competition Analysis
+
+
+## Overview
 
 Three Python notebooks for Problem B of the 2024 Teddy Cup Data Analysis Skills Competition, exploring information for 182 special medical-purpose formulated foods.
 
-**Category:** Data Analysis  
-**Stack:** Python · pandas · pdfplumber · Matplotlib · seaborn · Jupyter
 
 ## Included work
 
@@ -45,8 +62,8 @@ Run tasks in order where they consume earlier results. Files such as `result1.xl
 
 This is a competition analysis and reproduction project. The recommendation example is not a clinical recommendation system. Reproduction requires the corresponding external inputs and API access. The code license does not grant rights to product documents or datasets.
 
-## Author and license
+## Author & License
 
-Author / maintainer: [https://github.com/OOOHGOD](https://github.com/OOOHGOD).
+Author / maintainer: [OOOHGOD](https://github.com/OOOHGOD) · Original contributions: [MIT License](LICENSE)
 
-Eligible original contributions are under the [MIT License](LICENSE), permitting commercial use and modification with preservation of copyright and license notices in copies or substantial portions. [License scope](LICENSE_SCOPE.md) explains third-party exclusions and upstream terms.
+Commercial use and modification are permitted with preservation of copyright and license notices in copies or substantial portions. Third-party code, datasets, models, and media retain their own terms; see [license scope](LICENSE_SCOPE.md).
